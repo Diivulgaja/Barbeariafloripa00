@@ -129,7 +129,7 @@
   }
 
   .glass-input {
-    @apply bg-zinc-925/50 border border-white/10 text-foreground;
+    @apply bg-zinc-950/50 border border-white/10 text-foreground;
     @apply transition-all duration-200;
   }
 
